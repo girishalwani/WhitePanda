@@ -7,6 +7,15 @@ and open the template in the editor.
     Created on : Oct 5, 2019, 7:37:14 PM
     Author     : user
 */
+nav.noMargin{
+    margin-bottom: 0px;
+    position: none;
+    
+}
+
+div.topnav-right {
+  float: right;
+}
 
 #top-nav-bar {
     top: 15px;
@@ -18,9 +27,12 @@ and open the template in the editor.
 
 #logo{
     border: 0;
-    padding-bottom: 10px;
-    padding-top: 2px;
-    margin-bottom: 5px;
+    /* padding-bottom: 10px; */
+    /* padding-top: 2px; */
+    /* margin-bottom: 5px; */
+    /* margin-top: 15px; */
+    height: 59px;
+    padding-left: 50px;
 
 }
 
